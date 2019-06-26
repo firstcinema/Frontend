@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "algoliasearch": "^3.33.0",
-        "axios": "^0.18.0",
+        "axios": "^0.18.1",
         "core-js": "^2.6.5",
         "gravatar": "^1.8.0",
         "raw-loader": "^2.0.0",
