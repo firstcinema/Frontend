@@ -1,6 +1,7 @@
 <template>
   <div id="home">
     <Header />
+    <h1>{{ production.env.MONGO_URL }}</h1>
     <LatestNews />
     <RecentlyAdded />
     <PopularReviews />
